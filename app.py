@@ -1,1 +1,1 @@
-print('welcome to app v1.0-added enhanced feature')
+print('welcome to app v2.0-stable baseline')
